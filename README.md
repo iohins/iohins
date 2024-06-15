@@ -6,6 +6,8 @@
 
 - Interested in: **Webapps & full-stack development**
 
+Check out my personal blog at www.hins.io !
+
 <p align="left">
 </p>
 
