@@ -1,5 +1,5 @@
 <h1 align="center">你好，我是 Hins</h1>
-<h3 align="center">SaaS & Ecom Nerd 🧪</h3>
+<h3 align="center">SaaS & Ecom Enthusiast 🧪</h3>
 
 - Undergraduate CompSci student @ University of Leeds.
 - I’m currently learning: **Sveltekit**
