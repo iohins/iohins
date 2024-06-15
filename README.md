@@ -1,7 +1,8 @@
 <h1 align="center">你好，我是 Hins</h1>
 <h3 align="center">SaaS & Ecom Nerd 🧪</h3>
 
-- I’m currently learning: **Sveltekit & C++**
+- Undergraduate CompSci student @ University of Leeds.
+- I’m currently learning: **Sveltekit**
 
 - Interested in: **Webapps & full-stack development**
 
